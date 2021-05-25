@@ -2,3 +2,9 @@
   grid-area: c;
   background-color: #2176FF;
 }
+
+
+.img {
+  width: 50px;
+  border-radius: 50%;
+}
