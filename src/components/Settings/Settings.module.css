@@ -1,0 +1,13 @@
+.nav {
+  grid-area: n;
+  background-color: #F79824;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.link.active {
+  color: rgb(201, 40, 179);
+}
