@@ -7,6 +7,11 @@
   padding: 10px;
   
 }
+.dialog {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
 .dialog.active {
   color: gold;
 }
